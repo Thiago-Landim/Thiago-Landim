@@ -199,6 +199,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 
 ### 📊 Estatísticas
 
+
+
 <p align="center">
   <img 
     alt="GitHub Stats" 
@@ -210,7 +212,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     alt="GitHub Top Languages"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Landim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Landim&theme=tokyonight&layout=compact&langs_count=9"
   />
 </p>
 
